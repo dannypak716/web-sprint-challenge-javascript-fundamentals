@@ -141,7 +141,6 @@ function multiply(a, b){
    return a * b;
   }
 
-
  // 🦁🦁🦁 Use greeting to accept a first and last name and return "Hello {first-name} {last-name}, nice to meet you!" 🦁🦁🦁
   
 function greeting(/*Your Code Here */){
